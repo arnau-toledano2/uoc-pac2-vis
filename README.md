@@ -14,7 +14,7 @@ Aquest repositori conté el lliurament de la PAC 2 de l'assignatura M2.959 - Vis
 
 L'anàlisi completa, el codi font i les visualitzacions generades es troben al següent Jupyter Notebook renderitzat per GitHub:
 
-* **[https://github.com/[el-teu-usuari]/uoc-pac2-visualitzacio/blob/main/PAC2_Visualitzacions.ipynb](https://github.com/[el-teu-usuari]/uoc-pac2-visualitzacio/blob/main/PAC2_Visualitzacions.ipynb)**
+* **[https://github.com/arnau-toledano2/uoc-pac2-vis/blob/main/PAC2_Visualitzacions.ipynb](https://github.com/arnau-toledano2/uoc-pac2-vis/blob/main/PAC2_Visualitzacions.ipynb)**
 
 ---
 
@@ -50,6 +50,6 @@ A continuació es mostra un resum de les tres tècniques analitzades i les visua
 
 ## ⚙️ Com executar el projecte
 
-1.  Clonar el repositori: `git clone https://github.com/[el-teu-usuari]/uoc-pac2-visualitzacio.git`
+1.  Clonar el repositori: `git clone https://github.com/arnau-toledano2/uoc-pac2-vis.git`
 2.  Instal·lar les dependències: `pip install -r requirements.txt`
 3.  Obrir el Jupyter Notebook: `jupyter notebook PAC2_Visualitzacions.ipynb`
