@@ -1,5 +1,5 @@
 matplotlib
 pandas
 numpy
-horizon-graph
+horizonplot
 jupyter
