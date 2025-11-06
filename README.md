@@ -55,7 +55,7 @@ Enllaç: [https://www.kaggle.com/datasets/emmanuelfwerr/london-weather-data](htt
 * **Transformació Clau:** Donat que les escales absolutes són diferents (el grup de 16-64 anys és molt més gran que els altres), les dades s'han **normalitzat (Z-score)**. Això ens permet comparar el seu **patró d'evolució relatiu** en lloc dels seus valors absoluts.
 * **Objectiu:** Comparar les tendències demogràfiques de llarg termini, identificant patrons de creixement (o decreixement) relatiu entre la població jove, adulta i la gent gran a Catalunya.
 
-![Visualització Horizon Graph](imgimg/horizon_graph.png)
+![Visualització Horizon Graph](img/horizon_graph.png)
 
 Enllaç: [https://www.idescat.cat/dades/obertes/ep](https://www.idescat.cat/dades/obertes/ep)
 
